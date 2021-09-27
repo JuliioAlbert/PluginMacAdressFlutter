@@ -1,11 +1,12 @@
 name: macadress_gen
 description: Obtiene la MacAdress del Dispositivo.
-version: 0.0.1
-homepage: 
+version: 0.0.4
+homepage: https://github.com/JuliioAlbert/PluginMacAdressFlutter.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.20.0"
+
 
 dependencies:
   flutter:
